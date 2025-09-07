@@ -1,0 +1,6 @@
+The goal of this project is to create a linked-list for The Odin Project.
+
+Important to note is that Ruby does not have built-in support
+for linked lists; because of this, a class for lists and node objects will have
+to be written, as well as any of the classic functions for 
+adding, deleting, traversing and inserting nodes into the list.
